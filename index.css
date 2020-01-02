@@ -1,0 +1,37 @@
+*{
+
+}
+body{
+  background-color: #e6fff7;
+}
+div{
+  border: 2px solid grey;
+  border-bottom-right-radius:15%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 50%;
+  height: 55%;
+}
+#button,#button1{
+  border: none;
+  color: white;
+  background-color: #009966;
+  padding: 15px 30px;
+  margin-top:75px;
+}
+#button:hover,#button1:hover{
+  text-decoration: underline;;
+}
+#button1{
+  margin-top:50px;
+}
+
+#timer,#p1{
+  font-size: 3em;
+  text-align: center;
+  font-family: monospace;
+  color: green;
+}
+#p1{
+  font-size: 2.5em;
+}
